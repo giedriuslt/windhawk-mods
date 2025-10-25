@@ -22,7 +22,7 @@ Before:
 
 After:
 
-![After](https://i.imgur.com/ZwNBhCp.png)
+![After](https://i.imgur.com/jBNOYMn.png)
 
 ![After](https://i.imgur.com/DxKL5Od.png)
 
